@@ -1,1 +1,9 @@
 node_modules
+
+# Logs
+logs
+*.log
+
+# Misc
+.vscode
+.DS_Store
