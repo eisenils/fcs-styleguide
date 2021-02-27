@@ -1,7 +1,4 @@
-```image
-src: catalog_logo.svg
-plain: true
-```
+
 
 Hi!
 

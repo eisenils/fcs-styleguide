@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:url(#SVGID_5_);}
+	.st6{fill:url(#SVGID_6_);}
+	.st7{fill:none;stroke:url(#SVGID_7_);stroke-width:45;}
+	.st8{fill:#303030;}
+	.st9{fill:#05D000;}
+</style>
+<radialGradient id="SVGID_1_" cx="605.9" cy="594.1" r="490.4" gradientTransform="matrix(1 0 0 -1 0 1200)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.1622" style="stop-color:#FCFCFC"/>
+	<stop  offset="0.2848" style="stop-color:#F2F2F2"/>
+	<stop  offset="0.3945" style="stop-color:#E2E2E2"/>
+	<stop  offset="0.4966" style="stop-color:#CBCBCB"/>
+	<stop  offset="0.5935" style="stop-color:#AEAEAE"/>
+	<stop  offset="0.6864" style="stop-color:#898989"/>
+	<stop  offset="0.7762" style="stop-color:#5E5E5E"/>
+	<stop  offset="0.8613" style="stop-color:#2D2D2D"/>
+	<stop  offset="0.93" style="stop-color:#000000"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</radialGradient>
+<circle class="st0" cx="605.9" cy="605.9" r="490.4"/>
+<radialGradient id="SVGID_2_" cx="597.1" cy="602.9" r="487.4" gradientTransform="matrix(1 0 0 -1 0 1200)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.1622" style="stop-color:#FCFCFC"/>
+	<stop  offset="0.2848" style="stop-color:#F2F2F2"/>
+	<stop  offset="0.3945" style="stop-color:#E2E2E2"/>
+	<stop  offset="0.4966" style="stop-color:#CBCBCB"/>
+	<stop  offset="0.5935" style="stop-color:#AEAEAE"/>
+	<stop  offset="0.6864" style="stop-color:#898989"/>
+	<stop  offset="0.7762" style="stop-color:#5E5E5E"/>
+	<stop  offset="0.8613" style="stop-color:#2D2D2D"/>
+	<stop  offset="0.93" style="stop-color:#000000"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</radialGradient>
+<circle class="st1" cx="597.1" cy="597.1" r="487.4"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="110.0318" y1="873.948" x2="305.0988" y2="1122.218">
+	<stop  offset="0" style="stop-color:#F687B3"/>
+	<stop  offset="1" style="stop-color:#D53F8C"/>
+</linearGradient>
+<circle class="st2" cx="213" cy="1005" r="133"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="647.3939" y1="247.5" x2="1245.6062" y2="247.5">
+	<stop  offset="0" style="stop-color:#FEB2B2"/>
+	<stop  offset="1" style="stop-color:#FD442A"/>
+</linearGradient>
+<circle class="st3" cx="946.5" cy="247.5" r="211.5"/>
+<circle class="st4" cx="600" cy="600" r="484.5"/>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="244.9219" y1="230.4219" x2="103.6895" y2="89.1896">
+	<stop  offset="0" style="stop-color:#FFD064"/>
+	<stop  offset="0.8" style="stop-color:#FFB302"/>
+</linearGradient>
+<circle class="st5" cx="171" cy="156.5" r="91"/>
+<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="813.428" y1="40.628" x2="903.3721" y2="130.5719" gradientTransform="matrix(1 0 0 -1 0 1200)">
+	<stop  offset="0" style="stop-color:#049F00"/>
+	<stop  offset="1" style="stop-color:#06F100"/>
+</linearGradient>
+<circle class="st6" cx="858.4" cy="1114.4" r="63.6"/>
+<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="1149.4109" y1="789.5891" x2="785.5891" y2="1153.4109">
+	<stop  offset="0" style="stop-color:#04BEFE"/>
+	<stop  offset="1" style="stop-color:#4481EB"/>
+</linearGradient>
+<circle class="st7" cx="967.5" cy="971.5" r="159.4"/>
+<g>
+	<path class="st8" d="M714.4,485.6l-34.3,68.6C653.4,607.6,626.7,661,600,714.4H485.6c26.7-53.4,53.4-106.8,80.1-160.1H405.6
+		c-26.7,53.4-53.4,106.8-80.1,160.1H211.1c38.1-76.2,76.2-152.5,114.4-228.7h388.9V485.6z"/>
+	<path class="st9" d="M659.2,595.9h274.5c-7.6,15.3-15.3,30.5-22.9,45.8H636.4C644,626.4,651.6,611.2,659.2,595.9z"/>
+	<polygon class="st9" points="988.9,485.6 954.6,554.3 680.1,554.3 714.4,485.6 	"/>
+	<path class="st9" d="M622.9,668.6h274.5c-7.6,15.3-15.3,30.5-22.9,45.8H600C607.6,699.1,615.3,683.9,622.9,668.6z"/>
+</g>
+</svg>
