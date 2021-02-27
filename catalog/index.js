@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { Catalog, pageLoader } from "catalog";
+import {theme} from "./theme"
 
 const pages = [
   {
@@ -20,6 +21,10 @@ const pages = [
 ];
 
 ReactDOM.render(
-  <Catalog title="Catalog" pages={pages} />,
+  <Catalog
+    title="NE Design - Styleguide"
+    pages={pages}
+    theme={theme}
+  />,
   document.getElementById("catalog")
 );
