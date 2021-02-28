@@ -14,9 +14,19 @@ const pages = [
     title: "Grüner Baum Schweinberg",
     pages: [
       {
+        path: "gbs/logo",
+        title: "Logo",
+        content: pageLoader(() => import("./pages/gbs/Logo.md")),
+      },
+      {
         path: "gbs/colors",
         title: "Farben",
         content: pageLoader(() => import("./pages/gbs/Colors.md")),
+      },
+      {
+        path: "gbs/typography",
+        title: "Typografie",
+        content: pageLoader(() => import("./pages/gbs/Typography.md")),
       },
     ],
   },
