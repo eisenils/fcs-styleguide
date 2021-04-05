@@ -1,7 +1,7 @@
 ```type
 {
   "color": "#E82583",
-  "font": "Open Sans",
+  "font": "Montserrat",
   "headings": [
     { "label": "Headline 1", "value": 49 },
     { "label": "Headline 2", "value": 38 }
