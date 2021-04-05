@@ -29,6 +29,25 @@ const pages = [
         content: pageLoader(() => import("./pages/gbs/Typography.md")),
       },
     ],
+  },{
+    title: "GetYourSound",
+    pages: [
+      {
+        path: "gys/logo",
+        title: "Logo",
+        content: pageLoader(() => import("./pages/gys/Logo.md")),
+      },
+      {
+        path: "gys/colors",
+        title: "Farben",
+        content: pageLoader(() => import("./pages/gys/Colors.md")),
+      },
+      {
+        path: "gys/typography",
+        title: "Typografie",
+        content: pageLoader(() => import("./pages/gys/Typography.md")),
+      },
+    ],
   },
 ];
 
