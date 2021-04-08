@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import * as serviceWorkerRegistration from "./serviceWorkerRegistration";
+import * as serviceWorkerRegistration from "./serviceWorkerRegistration.js";
 import { Catalog, pageLoader } from "catalog";
 import {theme} from "./theme"
 import Logo from "./static/ne-dsgn_logo.svg"
