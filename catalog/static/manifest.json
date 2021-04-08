@@ -1,0 +1,15 @@
+{
+    "short_name": "Customer CI",
+    "name": "Customer CI",
+    "icons": [
+      {
+        "src": "ne-dsgn_logo.svg",
+        "sizes": "any"
+      }
+    ],
+    "start_url": ".",
+    "display": "fullscreen",
+    "theme_color": "#ffffff",
+    "orientation": "portrait-primary",
+    "background_color": "#ffffff"
+  }
