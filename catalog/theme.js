@@ -1,4 +1,6 @@
 import "typeface-ibm-plex-sans";
+import "typeface-open-sans";
+require("typeface-montserrat");
 
 export const theme = {
   // Colors
