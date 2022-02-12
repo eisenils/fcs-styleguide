@@ -2,16 +2,37 @@ import React from "react";
 import ReactDOM from "react-dom";
 import * as serviceWorkerRegistration from "./serviceWorkerRegistration.js";
 import { Catalog, pageLoader } from "catalog";
-import {theme} from "./theme"
-import Logo from "./static/ne-dsgn_logo.svg"
-import Styles from "./styles.css"
+import { theme } from "./theme";
+import Logo from "./static/ne-dsgn_logo.svg";
+import Styles from "./styles.css";
 
 const pages = [
   {
     path: "/",
     title: "Welcome",
-    content: pageLoader(() => import("./pages/WELCOME.md"))
-  },{
+    content: pageLoader(() => import("./pages/WELCOME.md")),
+  },
+  {
+    title: "Beratungspraxis Taubertal",
+    pages: [
+      {
+        path: "bpt/logo",
+        title: "Logo",
+        content: pageLoader(() => import("./pages/bpt/Logo.md")),
+      },
+      {
+        path: "bpt/colors",
+        title: "Farben",
+        content: pageLoader(() => import("./pages/bpt/Colors.md")),
+      },
+      {
+        path: "bpt/typography",
+        title: "Typografie",
+        content: pageLoader(() => import("./pages/bpt/Typography.md")),
+      },
+    ],
+  },
+  {
     title: "Grüner Baum Schweinberg",
     pages: [
       {
@@ -30,7 +51,8 @@ const pages = [
         content: pageLoader(() => import("./pages/gbs/Typography.md")),
       },
     ],
-  },{
+  },
+  {
     title: "GetYourSound",
     pages: [
       {

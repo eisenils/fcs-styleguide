@@ -2,6 +2,8 @@
   "name": "customer-ci",
   "description": "",
   "dependencies": {
+    "@fontsource/quicksand": "^4.5.4",
+    "@fontsource/work-sans": "^4.5.5",
     "catalog": "^3.6.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",

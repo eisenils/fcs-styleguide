@@ -2,6 +2,8 @@ import "typeface-ibm-plex-sans";
 import "typeface-libre-baskerville";
 import "typeface-montserrat";
 import "typeface-open-sans";
+import "@fontsource/quicksand";
+import "@fontsource/work-sans";
 
 export const theme = {
   // Colors

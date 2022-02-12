@@ -93,6 +93,16 @@
   resolved "https://registry.yarnpkg.com/@emotion/utils/-/utils-0.8.2.tgz#576ff7fb1230185b619a75d258cbc98f0867a8dc"
   integrity sha512-rLu3wcBWH4P5q1CGoSSH/i9hrXs7SlbRLkoq9IGuoPYNGQvDJ3pt/wmOM+XgYjIDRMVIdkUWt0RsfzF50JfnCw==
 
+"@fontsource/quicksand@^4.5.4":
+  version "4.5.4"
+  resolved "https://registry.yarnpkg.com/@fontsource/quicksand/-/quicksand-4.5.4.tgz#9d8c7665f87eb394ed7f4609258f1246ba84533b"
+  integrity sha512-BJEmlSF+HH0JJK3ug3jT/Ov6TrX8gEIyuAHkBUI/0KuW/iCbO2M+bu7RX3RstlcQPKzTkIqZQ0IOeLO5zP5oag==
+
+"@fontsource/work-sans@^4.5.5":
+  version "4.5.5"
+  resolved "https://registry.yarnpkg.com/@fontsource/work-sans/-/work-sans-4.5.5.tgz#4b5370e8b29793536cde46f8ce3435c9bc4d3f40"
+  integrity sha512-syABjZQcdi1X/AlPxPHUUfLNZ0/tr/ilmlPZwjheMyXmnwvR95RxNZ90D1lqD1P53dqfJm9l1pmYvSfovwgt5g==
+
 "@types/parse-json@^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@types/parse-json/-/parse-json-4.0.0.tgz#2f8bb441434d163b35fb8ffdccd7138927ffb8c0"
