@@ -1,25 +1,25 @@
 {
-    "short_name": "Customer CI",
-    "name": "Customer CI",
-    "icons": [
-      {
-        "src": "ne-dsgn_logo.svg",
-        "sizes": "any"
-      },
-      {
-        "src": "logo192.png",
-        "type": "image/png",
-        "sizes": "192x192"
-      },
-      {
-        "src": "logo512.png",
-        "type": "image/png",
-        "sizes": "512x512"
-      }
-    ],
-    "start_url": ".",
-    "display": "fullscreen",
-    "theme_color": "#ffffff",
-    "orientation": "portrait-primary",
-    "background_color": "#ffffff"
-  }
+  "short_name": "FC Schweinberg Styleguide",
+  "name": "FCS Styleguide",
+  "icons": [
+    {
+      "src": "fc-schweinberg-logo.svg",
+      "sizes": "any"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "fullscreen",
+  "theme_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff"
+}

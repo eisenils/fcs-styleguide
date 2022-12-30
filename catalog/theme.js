@@ -1,24 +1,17 @@
-import "typeface-ibm-plex-sans";
-import "typeface-libre-baskerville";
-import "typeface-montserrat";
-import "typeface-open-sans";
-import "@fontsource/quicksand";
-import "@fontsource/work-sans";
-
 export const theme = {
   // Colors
   background: "#fff",
   textColor: "#333",
   codeColor: "#00263E",
-  linkColor: "#04bb00",
+  linkColor: "#e41f21",
 
   // Used in PageHeader
-  pageHeadingBackground: "#fff",
+  pageHeadingBackground: "#fcfcfc",
   pageHeadingTextColor: "#333",
 
   // NavigationBar background color, but also sometimes used as a foreground
   // or border color.
-  lightColor: "#D6D6D6",
+  lightColor: "#fcfcfc",
 
   // Used for navigation bar
   navBarBackground: "#F2F2F2",
@@ -29,13 +22,13 @@ export const theme = {
   brandColor: "#303030",
 
   sidebarColor: "#FCFCFC",
-  sidebarColorActive: "#04bb00",
+  sidebarColorActive: "#e41f21",
   sidebarColorText: "#303030",
-  sidebarColorTextActive: "#04bb00",
+  sidebarColorTextActive: "#e41f21",
   sidebarColorLine: "#EBEBEB",
   sidebarColorHeading: "#303030",
 
   // Fonts
-  fontHeading: "'IBM Plex Sans', sans-serif",
-  fontFamily: "'IBM Plex Sans', sans-serif",
+  fontHeading: "'Broshk', sans-serif",
+  fontFamily: "'Century Gothic', sans-serif",
 };

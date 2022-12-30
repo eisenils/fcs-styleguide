@@ -1,11 +1,28 @@
-h1 {
-    font-weight: 600 !important;
+@font-face {
+  font-family: "Broshk";
+  src: url("/fonts/BroshK.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Century Gothic";
+  src: url("/fonts/cGothic.TTF") format("truetype");
+}
+@font-face {
+  font-family: "Chalkduster";
+  src: url("/fonts/Chalkduster.ttf") format("truetype");
 }
 
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-weight: 500 !important;
+h1 {
+  font-size: 3.5rem !important;
+}
+
+h2 {
+  font-size: 2rem !important;
+}
+
+thead {
+  border-bottom: 2px solid #333 !important;
+}
+
+tr {
+  border-bottom: 1px solid #333 !important;
 }

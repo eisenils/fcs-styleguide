@@ -3,80 +3,35 @@ import ReactDOM from "react-dom";
 import * as serviceWorkerRegistration from "./serviceWorkerRegistration.js";
 import { Catalog, pageLoader } from "catalog";
 import { theme } from "./theme";
-import Logo from "./static/ne-dsgn_logo.svg";
+import Logo from "./static/fc-schweinberg-logo.svg";
 import Styles from "./styles.css";
 
 const pages = [
   {
     path: "/",
-    title: "Welcome",
-    content: pageLoader(() => import("./pages/WELCOME.md")),
+    title: "Start",
+    content: pageLoader(() => import("./pages/Start.md")),
   },
   {
-    title: "Beratungspraxis Taubertal",
-    pages: [
-      {
-        path: "bpt/logo",
-        title: "Logo",
-        content: pageLoader(() => import("./pages/bpt/Logo.md")),
-      },
-      {
-        path: "bpt/colors",
-        title: "Farben",
-        content: pageLoader(() => import("./pages/bpt/Colors.md")),
-      },
-      {
-        path: "bpt/typography",
-        title: "Typografie",
-        content: pageLoader(() => import("./pages/bpt/Typography.md")),
-      },
-    ],
+    path: "/logo",
+    title: "Logo",
+    content: pageLoader(() => import("./pages/Logo.md")),
   },
   {
-    title: "Grüner Baum Schweinberg",
-    pages: [
-      {
-        path: "gbs/logo",
-        title: "Logo",
-        content: pageLoader(() => import("./pages/gbs/Logo.md")),
-      },
-      {
-        path: "gbs/colors",
-        title: "Farben",
-        content: pageLoader(() => import("./pages/gbs/Colors.md")),
-      },
-      {
-        path: "gbs/typography",
-        title: "Typografie",
-        content: pageLoader(() => import("./pages/gbs/Typography.md")),
-      },
-    ],
+    path: "/farben",
+    title: "Farben",
+    content: pageLoader(() => import("./pages/Colors.md")),
   },
   {
-    title: "GetYourSound",
-    pages: [
-      {
-        path: "gys/logo",
-        title: "Logo",
-        content: pageLoader(() => import("./pages/gys/Logo.md")),
-      },
-      {
-        path: "gys/colors",
-        title: "Farben",
-        content: pageLoader(() => import("./pages/gys/Colors.md")),
-      },
-      {
-        path: "gys/typography",
-        title: "Typografie",
-        content: pageLoader(() => import("./pages/gys/Typography.md")),
-      },
-    ],
+    path: "/typografie",
+    title: "Typografie",
+    content: pageLoader(() => import("./pages/Typography.md")),
   },
 ];
 
 ReactDOM.render(
   <Catalog
-    title="NE Design - Styleguide"
+    title="FC Schweinberg Styleguide"
     logoSrc={Logo}
     pages={pages}
     theme={theme}

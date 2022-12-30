@@ -1,1 +1,0 @@
-⚠️ This PWA is currently work in progress 🚧
